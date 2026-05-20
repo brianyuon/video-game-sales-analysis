@@ -16,6 +16,10 @@ players disagreed most.
 - **SQL (DB Browser for SQLite)** — data analysis and querying
 - **Tableau Public** — dashboard and visualizations
 
+## Files in this Repository
+- `README.md` — project overview and key findings
+- `analysis_queries.sql` — all 4 SQL queries used in the analysis
+
 ## Data Source
 - [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) 
   via Kaggle
